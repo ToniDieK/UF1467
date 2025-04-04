@@ -58,28 +58,20 @@ A continuación enlace al documento word:
 
 
 
-
-
-
-
-
-
-
-
-
 ## Ejercicio2
 
+Creación de hoja de cálculo en excel con **gráficos** y **formulas**
 
-
-
-
-
-
-
-
-
+[Documento excel](https://github.com/ToniDieK/UF1467/blob/main/documentaci%C3%B3n/Antonio%20M%C3%A9ndez.xlsx)
 
 
 
 
 ## Ejercicio3
+
+Utilización **procesador de texto** vinculado con hoja de calculo y uso de **gráficos**, exportación en **pdf** y subida de proyecto a **GITHUB**
+
+Enlace a proyecto [GITHUB](https://github.com/ToniDieK/UF1467.git)
+Enlace a documento en [PDF](https://github.com/ToniDieK/UF1467/blob/main/documentaci%C3%B3n/Antonio%20M%C3%A9ndez.pdf)
+
+
