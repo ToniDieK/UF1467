@@ -1,0 +1,32 @@
+body {
+    font-family: 'Segoe UI', sans-serif; 
+     background-color: #f4f4f4;  /* mal escrito el comando */
+    color: #333;
+    padding: 40px;
+    text-align: center;
+  }
+
+  h2 {
+    font-size: 28px;
+    margin-bottom: 20px;
+    color: #2c3e50;
+ }                                /* falta cerrar el h2 */
+
+   button {                         /* button con n  */
+    background-color: blue;    /*  el color escrito en castellano */
+    border: none;
+    padding: 12px 24px;
+    color: white;
+    font-size: 16px;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;   /*  sobra la s */
+
+    }                               /*   falta cerrar button */
+  button:Onhover { 
+    background-color: #2980b9;
+  }
+
+  button:active {
+    transform: scale(0.98);
+  }
